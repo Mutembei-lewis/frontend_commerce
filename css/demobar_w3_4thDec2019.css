@@ -98,7 +98,7 @@
   
   @media (max-width: 768px) {
     body {
-      padding-top: 54px !important;
+      padding-top: 0px !important;
     }
     #w3lDemoBar.w3l-demo-bar {
       position: fixed;
